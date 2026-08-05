@@ -692,6 +692,9 @@ OUTPUT:
     }
   ]
 }
+
+
+
 User message (send ONE style per call)
 Generate descriptions for this style. INPUT: <the JSON object below>
 Example prediction INPUT:
